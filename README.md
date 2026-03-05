@@ -1,4 +1,4 @@
-don't doing anything<br>
+don't doing dothing<br>
 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1003711899784970302) 
